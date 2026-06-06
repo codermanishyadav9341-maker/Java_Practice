@@ -7,11 +7,11 @@ public class Animal {
     }
 }
 
-class Dog extends Animal{
+class Dog extends Animal {
 
     @Override
     public void makeSound(){
-        System.out.println("Dog barks");
+        System.out.println("Dog2 barks");
     }
 
     public static void main(String[] args){
