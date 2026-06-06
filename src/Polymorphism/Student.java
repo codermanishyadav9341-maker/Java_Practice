@@ -3,12 +3,12 @@ package Polymorphism;
 public class Student {
 
     public void printDetails(String name,int age){
-        System.out.println("Student Name:- " +name);
+        System.out.println("Student3 Name:- " +name);
         System.out.println("Age:- " +age);
     }
 
     public void printDetails(String name,int age,String course){
-        System.out.println("Student Name:- " +name);
+        System.out.println("Student3 Name:- " +name);
         System.out.println("Age:- " +age);
         System.out.println("Course:- " +course);
     }
