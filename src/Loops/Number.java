@@ -8,8 +8,8 @@ public class Number {
         System.out.print("Enter number:- ");
         int num = scan.nextInt();
 
-        for(int i = 0; i<=num; i++){
-            System.out.print(i);
+        for(int i = 1; i<=num; i++){
+            System.out.print(i + " ");
         }
     }
 }
