@@ -23,7 +23,7 @@ public class Search {
 
         for(int i = 0; i<size; i++){
             if(arr[i] == key){
-                System.out.println("Elements Present in Index no:- " +i);
+                System.out.println("Elements Present is :- " +arr[i]);
                 found = true;
                 break;
             }
