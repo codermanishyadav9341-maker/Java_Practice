@@ -14,5 +14,6 @@ public class OddCheck {
          else{
              System.out.println(num+ " is even number");
         }
-    }
+
+  }
 }
