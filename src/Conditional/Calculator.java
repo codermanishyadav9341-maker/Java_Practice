@@ -60,7 +60,6 @@ public class Calculator {
                 System.out.println("Invalid choice");
 
         }
-
-
+        
     }
 }
