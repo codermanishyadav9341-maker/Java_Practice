@@ -8,7 +8,7 @@ public class Fruit {
 class Apple extends Fruit{
     @Override
     public void color(){
-        System.out.println("Apple color is Red");
+        System.out.println("Fruit color is Red");
     }
 }
 class Banana extends Fruit{
